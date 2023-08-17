@@ -1,13 +1,14 @@
 <a name="readme-top"></a>
 <div align="">
-  <h3><b>🎯 Bootstrap Portfolio mobile first </b></h3>
+  <h1><b>🎯 Bootstrap Portfolio mobile first </b></h1>
 
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Contents
-
+ 
+<h3> 📗 Table of Contents</h3>
+#
 - [📖 About the Project](#about-project)
   - [💻 Built With](#built-with)
     - [Tech Stack](#tech-stack)
