@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
-<div align="center">
-  <h3><b>🎯Bootstrap Portfolio mobile firs</b></h3>
+<div align="">
+  <h3><b>🎯 Bootstrap Portfolio mobile first </b></h3>
 
 </div>
 
