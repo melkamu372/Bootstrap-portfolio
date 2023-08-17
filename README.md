@@ -7,8 +7,8 @@
 <!-- TABLE OF CONTENTS -->
 
  
-<h3> 📗 Table of Contents</h3>
-#
+ <h3> 📗 Table of Contents</h3>
+
 - [📖 About the Project](#about-project)
   - [💻 Built With](#built-with)
     - [Tech Stack](#tech-stack)
