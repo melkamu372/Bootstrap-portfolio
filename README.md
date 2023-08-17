@@ -36,31 +36,6 @@
 
 **[Bootstrap Portfolio]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li>N/A</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li>N/A</li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li>N/A</li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
